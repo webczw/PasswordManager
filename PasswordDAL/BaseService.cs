@@ -25,7 +25,7 @@ namespace Password.DAL
         /// <summary>
         /// 增加或删除动作
         /// </summary>
-        /// <typeparam name="T"></typeparam>
+        /// <typeparam name="T">t</typeparam>
         /// <param name="action"></param>
         /// <param name="list"></param>
         /// <returns></returns>
